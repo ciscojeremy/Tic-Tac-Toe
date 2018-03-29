@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-My Tic Tac Toe game developement
+Tic Tac Toe game
